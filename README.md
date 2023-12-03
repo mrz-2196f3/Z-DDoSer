@@ -3,4 +3,4 @@
 
 DEMO VIDEO
 :-:
-<video src='Z-DDoSerDEMO_1920x1080.mp4' width=200/>
+<video src='Z-DDoSerDEMO_1920x1080.mp4' width=200> </video>
