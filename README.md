@@ -3,4 +3,4 @@
 
 DEMO VIDEO
 :-:
-<video src="https://github.com/mrz-2196f3/Z-DDoSer/blob/main/Z-DDoSerDEMO_1920x1080.mp4"> </video>
+<video src="github.com/mrz-2196f3/Z-DDoSer/blob/main/Z-DDoSerDEMO_1920x1080.mp4"/>
